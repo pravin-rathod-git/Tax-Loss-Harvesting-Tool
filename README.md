@@ -104,6 +104,27 @@ src/
 
 ---
 
+# 📸 Project Screenshots
+
+<div align="center">
+
+## 💻 Main Dashboard
+
+<img src="public/screenshots/lightTheme.png" width="1000"/>
+
+<br/>
+<br/>
+
+## 🌙 Dark Mode Dashboard
+
+<img src="public/screenshots/darkTheme.png" width="1000"/>
+
+</div>
+
+---
+
+---
+
 # 🚀 Getting Started
 
 ## 1️⃣ Clone Repository
