@@ -110,7 +110,7 @@ src/
 
 ## 💻 Main Dashboard
 
-<img src="public/screenshots/lightTheme.png" width="1000"/>
+<img src="public/screenshots/lighTheme.png" width="1000"/>
 
 <br/>
 <br/>
